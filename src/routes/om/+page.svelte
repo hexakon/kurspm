@@ -61,6 +61,10 @@
       <Paragraph>
         Designen av hela hemsidan är nästan en direkt kopia av <OutLink href="https://four.lol">FOUR</OutLink>.
       </Paragraph>
+
+      <Paragraph>
+        <b>September 3rd 2025: </b>This site has been featured on the DD2482 DevOps course \o/
+      </Paragraph>
     </main>
     <Toc />
   </div>
