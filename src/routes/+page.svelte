@@ -12,7 +12,7 @@
 <h1 class="mt-12 font-bold text-2xl md:text-3xl leading-none text-center">Anteckningar för högskolekurser,<br>skrivna av studenter, för studenter.</h1>
 
 <CalloutInfo classes="mt-6">
-  kurs.pm skapades sommaren 2024, så det är <b>väldigt</b> mycket innehåll & standard som saknas. Hjälp oss att förbättra och bidra med nytt innehåll via <OutLink href="https://github.com/kurspm/kurspm" target="_blank">GitHub</OutLink>!
+  kurs.pm skapades sommaren 2024, så det är <b>väldigt</b> mycket innehåll & standard som saknas. Hjälp oss att förbättra och bidra med nytt innehåll via <OutLink href="https://github.com/datasektionen/kurspm" target="_blank">GitHub</OutLink>!
 </CalloutInfo>
 
 <!--
@@ -28,7 +28,7 @@
   {#each Object.entries(KURSER) as [kod, kurs]}
   <CardCourse {kod} namn={kurs.namn} förkortning={kurs.förkortning} />
   {/each}
-  <a href="https://github.com/kurspm/kurspm/issues/" target="_blank" class="flex justify-center items-center flex-col outline-2 outline-dashed outline-zinc-300 dark:outline-zinc-700 rounded text-zinc-500 italic no-underline p-3 text-center leading-tight">
+  <a href="https://github.com/datasektionen/kurspm/issues/" target="_blank" class="flex justify-center items-center flex-col outline-2 outline-dashed outline-zinc-300 dark:outline-zinc-700 rounded text-zinc-500 italic no-underline p-3 text-center leading-tight">
     Saknas kursen du letar efter? Skriv på GitHub!
   </a>
 </div>

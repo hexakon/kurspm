@@ -45,7 +45,7 @@
           {/if}
         </div>
       </button>
-      <a href="https://github.com/kurspm/kurspm" target="_blank" class="bg-stone-100 dark:bg-zinc-800 p-2 rounded-[50%]">
+      <a href="https://github.com/datasektionen/kurspm" target="_blank" class="bg-stone-100 dark:bg-zinc-800 p-2 rounded-[50%]">
         <Github />
       </a>
     </div>
@@ -63,7 +63,7 @@
     <a href="/" class="text-left text-3xl md:text-4xl font-bold no-underline text-black dark:text-white hover:bg-transparent">kurs.pm</a>
     <p class="text-right text-zinc-600 dark:text-zinc-400">
       <a href="/om">Om hemsidan</a>
-      <br>© hexakon 2024
+      <br>© K. Datasektionen 2024-2025
       <br>
     </p>
   </footer>
