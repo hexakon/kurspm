@@ -28,7 +28,7 @@
 
 
 <h1 class="mt-12 font-bold text-2xl md:text-3xl leading-none text-center">Anteckningar för högskolekurser,<br>skrivna av studenter, för studenter.</h1>
-<h2 class="text-xl italic mt-4 hide"><a href="/om">Läs om vårt mål här.</a></h2>
+<h2 class="text-xl italic mt-4 hide"><a href="https://kurs.pm/om/">Läs om vårt mål här.</a></h2>
 
 <CalloutInfo classes="mt-6">
   kurs.pm skapades sommaren 2024, så det är <b>väldigt</b> mycket innehåll & standard som saknas. Hjälp oss att förbättra och bidra med nytt innehåll via <OutLink href="https://github.com/datasektionen/kurspm" target="_blank">GitHub</OutLink>!

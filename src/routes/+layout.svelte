@@ -62,7 +62,7 @@
   <footer class="flex flex-col md:flex-row items-stretch justify-between w-full max-w-[55rem] py-6 md:pt-12 px-2 mx-5">
     <a href="/" class="text-left text-3xl md:text-4xl font-bold no-underline text-black dark:text-white hover:bg-transparent">kurs.pm</a>
     <p class="text-right text-zinc-600 dark:text-zinc-400">
-      <a href="/om">Om hemsidan</a>
+      <a href="https://kurs.pm/om/">Om hemsidan</a>
       <br>© K. Datasektionen 2024-2025
       <br>
     </p>
